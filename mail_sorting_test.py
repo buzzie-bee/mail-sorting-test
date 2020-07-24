@@ -13,7 +13,6 @@ import serial
 import sys
 import threading
 from datetime import datetime
-import sqlite3
 
 
 class MyApp(App):
